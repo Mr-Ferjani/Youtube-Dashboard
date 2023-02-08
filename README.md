@@ -8,6 +8,7 @@
 # Code and resources used
 **Python Version:** 3.8\
 **Packages:** Pandas, numpy, streamlit, plotly, datetime
+**Dataset:** https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
 # How to run
 
 * using Conda: `conda create --name <env_name> --file requirements.txt`
