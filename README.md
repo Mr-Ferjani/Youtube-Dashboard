@@ -10,7 +10,9 @@
 **Packages:** Pandas, numpy, streamlit, plotly, datetime
 # How to run
 
-*using Conda: `conda create --name <env_name> --file requirements.txt`
+* using Conda: `conda create --name <env_name> --file requirements.txt`
 * Open a new terminal and run `streamlit run dashboard.py`
+
+# Dashboard 
 
 
