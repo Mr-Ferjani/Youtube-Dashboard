@@ -15,4 +15,8 @@
 
 # Dashboard 
 
+* ![alt text](https://github.com/Mr-Ferjani/Youtube-Dashboard/blob/master/aggregated%20metrics.png)
+* ![alt text](https://github.com/Mr-Ferjani/Youtube-Dashboard/blob/master/Individual%20Analysis%201.png)
+* ![alt text](https://github.com/Mr-Ferjani/Youtube-Dashboard/blob/master/individual%20Analysis%202.png)
+
 
