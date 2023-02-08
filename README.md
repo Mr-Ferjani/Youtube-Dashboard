@@ -7,7 +7,7 @@
 
 # Code and resources used
 **Python Version:** 3.8\
-**Packages:** Pandas, numpy, streamlit, plotly, datetime
+**Packages:** Pandas, numpy, streamlit, plotly, datetime\
 **Dataset:** https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
 # How to run
 
